@@ -34,7 +34,7 @@
     <ProjectReference Include="..\Wpf.Ui.SyntaxHighlight\Wpf.Ui.SyntaxHighlight.csproj" />
     <ProjectReference Include="..\Wpf.Ui.ToastNotifications\Wpf.Ui.ToastNotifications.csproj" />
     <ProjectReference Include="..\Wpf.Ui.Tray\Wpf.Ui.Tray.csproj" />
-    <ProjectReference Include="..\Wpf.Ui\Wpf.Ui.csproj" />
+    <ProjectReference Include="..\Wpf.Ui\NEXT_UI.csproj" />
   </ItemGroup>
 
   <ItemGroup>

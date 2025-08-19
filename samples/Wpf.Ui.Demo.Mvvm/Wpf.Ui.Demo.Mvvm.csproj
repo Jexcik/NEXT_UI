@@ -28,7 +28,7 @@
     <ProjectReference Include="..\..\src\Wpf.Ui.DependencyInjection\Wpf.Ui.DependencyInjection.csproj" />
     <ProjectReference Include="..\..\src\Wpf.Ui.ToastNotifications\Wpf.Ui.ToastNotifications.csproj" />
     <ProjectReference Include="..\..\src\Wpf.Ui.Tray\Wpf.Ui.Tray.csproj" />
-    <ProjectReference Include="..\..\src\Wpf.Ui\Wpf.Ui.csproj" />
+    <ProjectReference Include="..\..\src\Wpf.Ui\NEXT_UI.csproj" />
   </ItemGroup>
 
   <ItemGroup>

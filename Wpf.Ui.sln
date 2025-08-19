@@ -19,7 +19,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Wpf.Ui.Gallery", "src\Wpf.Ui.Gallery\Wpf.Ui.Gallery.csproj", "{E55BFB14-9DA6-434A-8153-BFE124D71818}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Wpf.Ui", "src\Wpf.Ui\Wpf.Ui.csproj", "{1ADC87D1-8963-4100-845A-18477824718E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NEXT_UI", "src\Wpf.Ui\NEXT_UI.csproj", "{1ADC87D1-8963-4100-845A-18477824718E}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Wpf.Ui.FontMapper", "src\Wpf.Ui.FontMapper\Wpf.Ui.FontMapper.csproj", "{50BAB8DE-6558-4E77-87E5-CD533CBBB72F}"
 EndProject
